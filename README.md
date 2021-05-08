@@ -1,6 +1,6 @@
 # listmod - Lista de Módulos
 
-SEGUEM PASSOS PARA O DESAFIO 1
+SEGUEM PASSOS PARA O DESAFIO 2
 
 1 - Entrar no diretório 'listmod' do repositório disponibilizado;
 
