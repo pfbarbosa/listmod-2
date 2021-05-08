@@ -2,7 +2,7 @@
 
 SEGUEM PASSOS PARA O DESAFIO 2
 
-1 - Entrar no diretório 'listmod' do repositório disponibilizado;
+1 - Entrar no diretório 'listmod-2' do repositório disponibilizado;
 
 2 - Executar o comando: 
     docker-compose up
